@@ -22631,6 +22631,6646 @@
         "change_background_color",
         "remove_datapoint"
       ]
+    },
+    "violin/187": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "violin/190": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/001": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/002": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/003": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/004": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/005": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/006": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/007": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/008": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0"
+      ]
+    },
+    "dot/009": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/010": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/011": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/012": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/013": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/014": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/015": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/016": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/017": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/018": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/019": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/020": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/021": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/022": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/023": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/024": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/025": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0"
+      ]
+    },
+    "dot/026": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/027": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/028": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/029": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/030": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/031": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/032": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/033": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/034": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/035": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/036": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/037": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/038": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0"
+      ]
+    },
+    "dot/039": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/040": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/041": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/042": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/043": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/044": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/045": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/046": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/047": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/048": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/050": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/049": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/051": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/052": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/053": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/054": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/055": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/056": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/057": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/058": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/059": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/060": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/061": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/062": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/063": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/064": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/065": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/066": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/067": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/068": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/069": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/070": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/071": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/072": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/073": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/074": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/075": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/076": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/077": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/078": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/079": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/082": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/081": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/080": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/083": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/084": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/085": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/087": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/088": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/089": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/091": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/090": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/092": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/093": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/094": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/095": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/096": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/097": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/098": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/099": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/100": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/101": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/102": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/104": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/103": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/105": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/106": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/107": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/108": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/086": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/109": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/110": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/111": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0"
+      ]
+    },
+    "dot/112": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/113": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/114": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/115": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/116": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/117": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/118": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/119": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/120": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/122": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/121": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/123": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/124": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/125": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/126": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/127": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/128": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/129": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/130": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/131": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/132": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/133": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/134": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/135": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/136": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/137": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/138": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/139": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/140": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/141": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/142": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/143": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/144": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/145": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/146": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0"
+      ]
+    },
+    "dot/147": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/148": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/149": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/150": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/151": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/152": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/153": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/154": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/156": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/155": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/158": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/157": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/159": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/160": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/162": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/161": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/163": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ]
+    },
+    "dot/164": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/165": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/167": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/168": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/166": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/169": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/170": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/171": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/172": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/173": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/174": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/175": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "3@2"
+      ]
+    },
+    "dot/176": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/177": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/178": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/179": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/180": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/181": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/182": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/183": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/184": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/185": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/186": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/187": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/188": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/189": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/190": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/191": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "3@2"
+      ]
+    },
+    "dot/192": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/193": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/194": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/195": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "dot/196": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/197": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0"
+      ]
+    },
+    "dot/198": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/199": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@1",
+        "3@2"
+      ]
+    },
+    "dot/200": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "increase_category_spacing",
+        "decrease_category_spacing",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/002": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/001": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/004": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/005": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/003": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/006": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/007": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/008": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/009": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/010": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/011": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/013": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/014": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/015": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/012": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/016": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/017": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/018": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/019": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/020": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/021": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/022": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/023": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/024": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/025": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/026": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/027": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/028": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/029": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/030": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/031": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/033": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/032": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/034": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/035": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/038": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/037": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/036": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/039": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/040": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/041": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/042": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/044": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/045": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/046": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/047": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/043": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/048": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/049": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/050": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/051": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/052": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/053": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/054": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/055": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/056": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/057": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/059": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/058": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/060": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/061": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/062": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/065": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/063": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/066": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/067": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/064": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/068": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/070": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/071": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/069": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/072": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/073": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/074": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/075": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/076": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/077": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/078": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/079": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/080": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/081": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/082": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/083": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/084": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/086": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/087": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/085": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/091": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/090": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/088": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/089": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/092": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/093": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/094": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/095": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/096": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/097": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/098": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/100": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/101": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/099": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/103": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/102": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "scatter/105": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/106": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/104": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/107": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/108": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/109": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/111": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/110": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/112": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/114": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/113": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1"
+      ]
+    },
+    "scatter/116": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/117": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/118": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/115": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/119": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/120": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/121": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/122": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/123": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/124": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/125": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/126": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/128": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/127": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/129": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/130": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/131": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/132": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/133": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/135": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/134": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/136": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/137": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/139": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/140": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/138": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/141": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/143": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/142": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/144": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/145": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/147": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/148": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/149": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/146": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/151": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/150": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/152": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/153": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/154": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/155": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/156": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/158": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/157": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/159": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/160": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/161": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/163": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/162": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/164": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/165": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/166": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/167": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/168": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/169": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/170": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/171": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/172": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/173": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/174": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/177": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/178": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/180": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/175": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/176": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/179": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/182": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/183": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/181": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/184": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/185": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/186": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/187": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/188": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/189": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/190": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/191": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/193": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/194": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/195": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/197": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/192": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/198": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/199": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/196": {
+      "singles_done": [
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
+    },
+    "scatter/200": {
+      "singles_done": [
+        "change_datapoint_color",
+        "increase_text_size",
+        "decrease_text_size",
+        "change_background_color",
+        "add_title",
+        "add_datapoint",
+        "remove_datapoint"
+      ],
+      "combos_done": [
+        "2@0",
+        "2@1",
+        "3@2"
+      ]
     }
   }
 }
